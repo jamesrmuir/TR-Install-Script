@@ -10,7 +10,6 @@ choco install firefox -y -f
 choco install unity -y -f
 choco install jdk -y -f
 choco install eclipse -y -f
-choco install github -y -f
 choco install openscad -y -f
 choco install autodesk-123d-design -y-f
 choco install blender -y -f
