@@ -20,3 +20,4 @@ choco install audacity -y -f
 choco install vlc -y -f
 choco install minecraft -y -f
 choco install irfanview -y -f
+choco install intellijidea-community -y -f
